@@ -1,4 +1,4 @@
-# Customer Churn Analysis Dashboard
+# Customer Churn Analysis
 
 ## Overview
 This project is a **Power BI Report** designed to analyze customer churn in a telecom company. It provides insights into churn rates, revenue impact, customer segmentation, and service usage trends.
