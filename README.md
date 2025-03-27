@@ -43,3 +43,4 @@ The dataset used is **Telco Customer Churn**, containing customer information su
 
 
 ### If you find this project useful, don’t forget to give it a star! ⭐ 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayez-elashmony-812a56351)
