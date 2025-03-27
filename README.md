@@ -10,13 +10,13 @@ This project is a **Power BI dashboard** designed to analyze customer churn in a
 
 ## Dashboard Screenshots
 ### Churn Summary
-![Churn Summary](Report Snapshots/1.jpg)
+![Churn Summary](Report_Snapshots/1.jpg)
 
 ### Customer Behavior
-![Customer Behavior](Report Snapshots/2.jpg)
+![Customer Behavior](Report_Snapshots/2.jpg)
 
 ### Service Analysis
-![Service Analysis](3.jpg)
+![Service Analysis](Report_Snapshots/3.jpg)
 
 ## Dataset
 The dataset used is **Telco Customer Churn**, containing customer information such as demographics, contract details, and service usage.
