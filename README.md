@@ -13,7 +13,7 @@ This project is a **Power BI dashboard** designed to analyze customer churn in a
 ![Churn Summary](1.jpg)
 
 ### Customer Behavior
-![Customer Behavior](2.jpg)
+![Customer Behavior](Report Snapshots/2.jpg)
 
 ### Service Analysis
 ![Service Analysis](3.jpg)
