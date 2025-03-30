@@ -4,7 +4,7 @@
 This project is a **Power BI Report** designed to analyze customer churn in a telecom company. It provides insights into churn rates, revenue impact, customer segmentation, and service usage trends.
 
 
-## Key Insights from the Dashboard  
+## Key Insights
 - **Churn Rate:** **26.54%** – A critical metric showing customer retention challenges.  
 - **Total Revenue Lost:** **$2.86M** – The financial loss due to customer churn.  
 - **Total Customers:** **7,043** – The total active customer base.  
@@ -14,6 +14,7 @@ This project is a **Power BI Report** designed to analyze customer churn in a te
 - **Senior Citizens & Churn:** Senior citizens show lower churn rates compared to non-senior citizens.  
 - **Service Impact on Churn:** Lack of **tech support, online security, and device protection** correlates with higher churn.  
 
+---
 
 ## Features
 - **Churn Summary**: Key metrics including churn rate, total churned customers, and revenue loss.
@@ -30,6 +31,8 @@ This project is a **Power BI Report** designed to analyze customer churn in a te
 ### Service Analysis
 ![Service Analysis](Report_Snapshots/3.png)
 
+---
+
 ##  Technology Stack  
 - **Power BI** – Data visualization and dashboard development.
 - **Excel** (for initial data cleaning and transformation).
@@ -37,10 +40,16 @@ This project is a **Power BI Report** designed to analyze customer churn in a te
 ## Dataset
 The dataset used is **Telco Customer Churn**, containing customer information such as demographics, contract details, and service usage.
 
-## Documentation
-
+## Documentation 
 [Documentation](Reports/Objectives.docx)
 
+---
 
 ### If you find this project useful, don’t forget to give it a star! ⭐ 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayez-elashmony-812a56351)
+
+##  Let's Connect!
+
+Email: eng.fayez66@gmail.com
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayez-elashmony-812a56351) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fayez66?tab=repositories)  
