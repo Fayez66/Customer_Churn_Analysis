@@ -41,7 +41,7 @@ This project is a **Power BI Report** designed to analyze customer churn in a te
 The dataset used is **Telco Customer Churn**, containing customer information such as demographics, contract details, and service usage.
 
 ## Documentation 
-[Documentation](Reports/Objectives.docx)
+[Documentation](Reports/Ojectives.docx)
 
 ---
 
